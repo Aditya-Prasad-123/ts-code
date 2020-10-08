@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "target": "es6",
+    "module": "es2015",
+    "strictNullChecks": true,
+    "allowJs": true,
+    "sourceMap": true,
+    "strict": true,
+    "types": [],
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "moduleResolution": "node",
+    "noImplicitAny": false,
+    "esModuleInterop": true, 
+    // When set to true, TypeScript will raise an error when a class property was declared but not set in the constructor.
+    "strictPropertyInitialization": false,
+  }
+} 
